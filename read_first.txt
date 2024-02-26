@@ -1,0 +1,5 @@
+XeLL-1f : pour les consoles DevKit ou images jtag ne contenant que XeLL
+
+XeLL-2f : pour les consoles Jtag
+
+XeLL-gggggg : pour les consoles Glitch
